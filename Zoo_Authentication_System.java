@@ -7,7 +7,6 @@ import java.io.*;
 
 /**
  * @assignment 7-1 Final Project Submission: Authentication
- * @instructor Annie Wise
  * @date 04/20/2019
  * @author Hunter Holcombe
  */
